@@ -17,3 +17,4 @@ spec:
         image: myapp:1.0
         ports:
         - containerPort: 3000
+  
